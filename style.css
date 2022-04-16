@@ -1,0 +1,36 @@
+body{
+    background:url("https://th.bing.com/th/id/R.f4e1db8d0317dd483caf533611df7ef4?rik=3ESmncLoWbLyQA&riu=http%3a%2f%2fdemiedo.es%2fimages%2fwallpapers%2fastractos-wallpaper-299852.jpeg&ehk=amrroUH9BA7KcKY1y%2feeS%2bgOwsXP%2fVC7aXYyxsdmwFg%3d&risl=&pid=ImgRaw&r=0");
+}
+nav{
+    background-color:	#0000FF;
+}
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    width: 300px;
+  }
+  .tasks{
+
+    display: flex;
+    flex-wrap: wrap;
+
+}
+img{
+    width: 50px;
+}
+ #tasks {
+    display: flex;
+    margin-left: 10px;
+    flex-wrap: wrap;
+}
+#description{
+    background-color: lightblue;
+}
